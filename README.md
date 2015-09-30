@@ -17,4 +17,3 @@ Captured the Paul Noll site HTML for words within 'li' tags. Used Simple HTML Do
 
     Word list: http://www.paulnoll.com/Books/Clear-English/
     Simple HTML Dom library: http://getbootstrap.com/
-   
