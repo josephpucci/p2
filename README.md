@@ -6,8 +6,9 @@
 
 This is a simple tool for generating an xkcd style password. It takes inputs for number of words, and whether you want to add a number or special character, and then generates the password using a word list (source below). 
 ##Demo
+A brief demo of the tool and how it works can be found here:
 
-https://www.youtube.com/watch?v=RoqrD9ZD0N4&feature=youtu.be
+<http://screencast.com/t/AAfvsEG7ijI>
 ##Details for teaching team
 
 Captured the Paul Noll site HTML for words within 'li' tags. Used Simple HTML Dom library to parse the HTML and retrieve the values within the 'li' tags. 
