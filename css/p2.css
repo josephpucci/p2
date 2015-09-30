@@ -1,0 +1,19 @@
+body {
+	background-color: #99CCFF;
+	color: #2c3e50
+}
+
+.wrapper {
+	width: 1170px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.password {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #F8F8F8;
+	font-size: xx-large;
+}
